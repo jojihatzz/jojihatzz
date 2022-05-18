@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jojihatzz</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jojihatzz" alt="jojihatzz" /></a> </p>
+
 
 - 🔭 I’m currently working on [Wallpapers](https://github.com/jojihatzz/Wallpapers)
 
