@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm jojihatzz</h1>
 - 🔭 I’m currently working on **NevaTeam**
 
+- 💬 Ask me about **My life**
+
 - 👍 I'm working with [4r1ss](https://github.com/4r1ss)
+
+- ⚡ Fun fac **Octopuses have three hearts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
