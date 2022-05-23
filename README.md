@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm jojihatzz</h1>
 <h3 align="center">helo guys</h3>
-
+<h6 align="center">this README is fake</h6>
 - 🔭 I’m currently working on **NevaTeam**
 
 - 💬 Ask me about **smth idk**
