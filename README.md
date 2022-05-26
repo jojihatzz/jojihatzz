@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jojihatzz</h1>
 
 
-- 🔭 I’m currently working on [Wallpapers](https://github.com/jojihatzz/Wallpapers)
+- 🔭 I’m currently working on [Telegram Bot Template](https://github.com/jojihatzz/Telegram-Bot-Template)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
