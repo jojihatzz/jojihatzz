@@ -1,6 +1,6 @@
-<h1 align="center"></h1>
+<!--<h1 align="center"></h1>-->
 
-![alt text](https://i.imgur.com/7RBQH9C.png))
+![alt text](https://i.imgur.com/7RBQH9C.png)
 - 🔭 I’m currently working on [Telegram Bot Template](https://github.com/jojihatzz/Telegram-Bot-Template)
 
 <h3 align="left">Connect with me:</h3>
