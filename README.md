@@ -1,5 +1,5 @@
 <h1 align="center">
-![alt text](https://i.imgur.com/xh8bUvx.png))
+![alt text](https://i.imgur.com/xh8bUvx.png)
 </h1>
 
 
